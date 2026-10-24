@@ -1,0 +1,13 @@
+{
+  "itemGroup.iceandfirecemiddleearth": "Example Mod Tab",
+  "block.iceandfirecemiddleearth.example_block": "Example Block",
+  "item.iceandfirecemiddleearth.example_item": "Example Item",
+
+  "iceandfirecemiddleearth.configuration.title": "Ice and Fire: CE - Middle Earth Configs",
+  "iceandfirecemiddleearth.configuration.section.iceandfirecemiddleearth.common.toml": "Ice and Fire: CE - Middle Earth Configs",
+  "iceandfirecemiddleearth.configuration.section.iceandfirecemiddleearth.common.toml.title": "Ice and Fire: CE - Middle Earth Configs",
+  "iceandfirecemiddleearth.configuration.items": "Item List",
+  "iceandfirecemiddleearth.configuration.logDirtBlock": "Log Dirt Block",
+  "iceandfirecemiddleearth.configuration.magicNumberIntroduction": "Magic Number Text",
+  "iceandfirecemiddleearth.configuration.magicNumber": "Magic Number"
+}

@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "net.righthandedvoid.iceandfirecemiddleearth.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "DragonBaseEntityMixin",
+    "DragonTextureProviderMixin",
+    "DragonEyesFeatureRendererMixin",
+    "DragonCavePieceMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
