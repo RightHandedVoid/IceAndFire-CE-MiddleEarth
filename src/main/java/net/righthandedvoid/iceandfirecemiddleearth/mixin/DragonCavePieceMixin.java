@@ -6,6 +6,7 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.ModifyArg;
 
+/*
 @Mixin(targets = "com.iafenvoy.iceandfire.world.structure.DragonCaveStructure$DragonCavePiece")
 public abstract class DragonCavePieceMixin {
 
@@ -31,3 +32,4 @@ public abstract class DragonCavePieceMixin {
         return YourStageUtil.midpointAgeForStage(stage); // inverse of your stageForAge
     }
 }
+*/
